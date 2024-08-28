@@ -1,0 +1,1 @@
+public record StudentDto(Guid Id, string Nome);
